@@ -1,0 +1,33 @@
+.header
+{
+    background-color: orange;
+    font-size:smaller;
+}
+
+#heading
+{
+    color:aliceblue;
+}
+
+#note
+{
+    font-size: 20px;
+    color:beige;
+}
+
+.canvas
+{
+    border: 5px solid white;
+    border-radius:20px;
+    
+}
+
+.songname_btn
+{
+    border: 5px solid white;
+    border-radius:20px;
+    width: 300px;
+    height:70px;
+    font-size:large;
+
+}
